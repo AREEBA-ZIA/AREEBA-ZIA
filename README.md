@@ -1,3 +1,5 @@
+
+![logo](https://github.com/AREEBA-ZIA/AREEBA-ZIA/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Areeba Zia</h1>
 <h3 align="center">A passionate AI Student from Pakistan</h3>
 
